@@ -1,0 +1,39 @@
+h1{
+    color: black;
+    position: fixed;
+}
+body{
+    background-color: #A2A3B1;
+}
+html{
+    background-image: url("/Images/Riceee.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+ .p{
+    float: right;
+    font-family: monospace;
+} 
+.morgan,.dora,.merlin{
+    background-color: purple;
+    width: 100px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.dora{
+    background-color: tomato;
+}
+.merlin{
+    background-color: blue;
+}
+
+img{
+    float: left;
+    border-color: 5px solid black;
+    border:10px;
+    margin: 25px;
+}
